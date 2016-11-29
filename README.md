@@ -1,6 +1,6 @@
 # Hapi
 ## Introduction  
-This is my own customization of Hapi.js framework. This customization includes the Vue.js and bootstrap 4 as the frontend, and sass compiler, and webpack as js mimifier.
+This is my own customization of [Hapi.js](https://github.com/hapijs/hapi) framework. This customization includes the Vue.js and bootstrap 4 as the frontend, and sass compiler, and webpack as js mimifier.
 ## Installation  
 Installation is pretty simple, you should just 
 ```sh
